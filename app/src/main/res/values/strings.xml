@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Mss</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="sign_in">Sign In</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="main_character">Main Character</string>
+    <string name="search">Search...</string>
+    <string name="admin_panel">Admin Panel</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Logout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pending">Pending</string>
+    <string name="complete">Complete</string>
+    <string name="textview">TextView</string>
+    <string name="confirm_button">Confirm button</string>
+    <string-array name="messages">
+        <item>XXXYYYZZZ10 Confirmed. Ksh700.00 paid to GEL NAIL SHOP. on 17/3/21 at 6:54 PM.New M-PESA balance is Ksh3,646.22. Transaction cost, Ksh0.00. Amount you can transact within the day is 299,300.00.You can now access M-PESA via *33</item>
+        <item>XXXYYYZZZ10 Confirmed. Ksh700.00 paid to GEL NAIL SHOP. on 17/3/21 at 6:54 PM.New M-PESA balance is Ksh3,646.22. Transaction cost, Ksh0.00. Amount you can transact within the day is 299,300.00.You can now access M-PESA via *33</item>
+        <item>XXXYYYZZZ10 Confirmed. Ksh700.00 paid to GEL NAIL SHOP. on 17/3/21 at 6:54 PM.New M-PESA balance is Ksh3,646.22. Transaction cost, Ksh0.00. Amount you can transact within the day is 299,300.00.You can now access M-PESA via *33</item>
+        <item>XXXYYYZZZ10 Confirmed. Ksh700.00 paid to GEL NAIL SHOP. on 17/3/21 at 6:54 PM.New M-PESA balance is Ksh3,646.22. Transaction cost, Ksh0.00. Amount you can transact within the day is 299,300.00.You can now access M-PESA via *33</item>
+        <item>XXXYYYZZZ10 Confirmed. Ksh700.00 paid to GEL NAIL SHOP. on 17/3/21 at 6:54 PM.New M-PESA balance is Ksh3,646.22. Transaction cost, Ksh0.00. Amount you can transact within the day is 299,300.00.You can now access M-PESA via *33</item>
+        <item>XXXYYYZZZ10 Confirmed. Ksh700.00 paid to GEL NAIL SHOP. on 17/3/21 at 6:54 PM.New M-PESA balance is Ksh3,646.22. Transaction cost, Ksh0.00. Amount you can transact within the day is 299,300.00.You can now access M-PESA via *33</item>
+        <item>XXXYYYZZZ10 Confirmed. Ksh700.00 paid to GEL NAIL SHOP. on 17/3/21 at 6:54 PM.New M-PESA balance is Ksh3,646.22. Transaction cost, Ksh0.00. Amount you can transact within the day is 299,300.00.You can now access M-PESA via *33</item>
+        <item>XXXYYYZZZ10 Confirmed. Ksh700.00 paid to GEL NAIL SHOP. on 17/3/21 at 6:54 PM.New M-PESA balance is Ksh3,646.22. Transaction cost, Ksh0.00. Amount you can transact within the day is 299,300.00.You can now access M-PESA via *33</item>
+        <item>XXXYYYZZZ10 Confirmed. Ksh700.00 paid to GEL NAIL SHOP. on 17/3/21 at 6:54 PM.New M-PESA balance is Ksh3,646.22. Transaction cost, Ksh0.00. Amount you can transact within the day is 299,300.00.You can now access M-PESA via *33</item>
+        <item>XXXYYYZZZ10 Confirmed. Ksh700.00 paid to GEL NAIL SHOP. on 17/3/21 at 6:54 PM.New M-PESA balance is Ksh3,646.22. Transaction cost, Ksh0.00. Amount you can transact within the day is 299,300.00.You can now access M-PESA via *33</item>
+        <item>XXXYYYZZZ10 Confirmed. Ksh700.00 paid to GEL NAIL SHOP. on 17/3/21 at 6:54 PM.New M-PESA balance is Ksh3,646.22. Transaction cost, Ksh0.00. Amount you can transact within the day is 299,300.00.You can now access M-PESA via *33</item>
+        <item>XXXYYYZZZ10 Confirmed. Ksh700.00 paid to GEL NAIL SHOP. on 17/3/21 at 6:54 PM.New M-PESA balance is Ksh3,646.22. Transaction cost, Ksh0.00. Amount you can transact within the day is 299,300.00.You can now access M-PESA via *33</item>
+        <item>XXXYYYZZZ10 Confirmed. Ksh700.00 paid to GEL NAIL SHOP. on 17/3/21 at 6:54 PM.New M-PESA balance is Ksh3,646.22. Transaction cost, Ksh0.00. Amount you can transact within the day is 299,300.00.You can now access M-PESA via *33</item>
+        <item>XXXYYYZZZ10 Confirmed. Ksh700.00 paid to GEL NAIL SHOP. on 17/3/21 at 6:54 PM.New M-PESA balance is Ksh3,646.22. Transaction cost, Ksh0.00. Amount you can transact within the day is 299,300.00.You can now access M-PESA via *33</item>
+        <item>XXXYYYZZZ10 Confirmed. Ksh700.00 paid to GEL NAIL SHOP. on 17/3/21 at 6:54 PM.New M-PESA balance is Ksh3,646.22. Transaction cost, Ksh0.00. Amount you can transact within the day is 299,300.00.You can now access M-PESA via *33</item>
+        <item>XXXYYYZZZ10 Confirmed. Ksh700.00 paid to GEL NAIL SHOP. on 17/3/21 at 6:54 PM.New M-PESA balance is Ksh3,646.22. Transaction cost, Ksh0.00. Amount you can transact within the day is 299,300.00.You can now access M-PESA via *33</item>
+
+    </string-array>
+</resources>

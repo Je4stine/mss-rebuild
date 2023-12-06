@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/pendingView"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:layout_height="wrap_content">
+
+
+    <TextView
+        android:id="@+id/tvMessage"
+        android:layout_width="0dp"
+        android:layout_height="150dp"
+        android:padding="10dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginVertical="15dp"
+        android:layout_weight="1"
+        android:background="@drawable/messageprop"
+        android:text="@string/textview" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:contentDescription="@string/confirm_button"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="1"
+        app:srcCompat="@drawable/baseline_check_circle_24" />
+
+
+</LinearLayout>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:backgroundTint="?attr/colorPrimary"
+    android:layout_height="wrap_content">
+
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="0dp"
+        android:layout_height="50dp"
+        android:layout_weight="0.4"
+        app:srcCompat="@drawable/user"/>
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/main_character"
+        android:gravity="center_horizontal"
+        android:textColor="@color/white"
+        android:layout_marginStart="2dp"
+        android:layout_weight="1"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        />
+
+    <EditText
+        android:id="@+id/editTextText"
+        android:drawableEnd="@drawable/baseline_search_24"
+        android:background="@drawable/search"
+        android:padding="5dp"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.7"
+        android:ems="10"
+        android:inputType="text"
+        android:layout_marginStart="20dp"
+        android:textSize="17sp"
+        android:hint="@string/search"
+        />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="2dp"
+        android:clickable="true"
+        android:layout_weight="0.2"
+        android:src="@drawable/baseline_more_vert_24" />
+
+
+</LinearLayout>
